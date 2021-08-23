@@ -14,6 +14,8 @@
 
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)(https://www.hackerrank.com/ug205)
 
+SoloLearn Profile: https://www.sololearn.com/profile/1130470
+
 - 🔭 I’m currently working on www.gopython.in
 - 
 <!--
