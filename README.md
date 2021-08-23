@@ -11,16 +11,21 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
+Profile Links: 
 
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white): (https://www.hackerrank.com/ug205)
+[SoloLearn Profile](https://www.sololearn.com/profile/1130470)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/umamaheshwargupta/
+[HackerRank](https://www.hackerrank.com/ug205)
 
-SoloLearn Profile: https://www.sololearn.com/profile/1130470
+[LinkedIn](https://www.linkedin.com/in/umamaheshwargupta/)
 
 
-- 🔭 I’m currently working on www.gopython.in
-- 
+🔭 I’m currently working on www.gopython.in
+
+🌱 I’m currently learning deep learning
+
+🤔 I’m looking for job role as a python developer in a  fortune 500 company
+
 <!--
 **umamaheshwar-g/umamaheshwar-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
