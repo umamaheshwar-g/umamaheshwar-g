@@ -14,8 +14,9 @@
 
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)(https://www.hackerrank.com/ug205)
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/umamaheshwargupta/
+
 SoloLearn Profile: https://www.sololearn.com/profile/1130470
-LinkedIn Profile: https://www.linkedin.com/in/umamaheshwargupta/
 
 
 - 🔭 I’m currently working on www.gopython.in
