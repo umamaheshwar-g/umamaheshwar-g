@@ -13,18 +13,21 @@
 
 Profile Links: 
 
+ | 
 [SoloLearn Profile](https://www.sololearn.com/profile/1130470)
+ | 
+[LinkedIn Profile](https://www.linkedin.com/in/umamaheshwargupta/)
+ | 
+[HackerRank Profile](https://www.hackerrank.com/ug205)
+ | 
 
-[HackerRank](https://www.hackerrank.com/ug205)
-
-[LinkedIn](https://www.linkedin.com/in/umamaheshwargupta/)
-
-
-🔭 I’m currently working on www.gopython.in
-
-🌱 I’m currently learning deep learning
 
 🤔 I’m looking for job role as a python developer in a  fortune 500 company
+
+🔭 I’m currently working on: www.gopython.in
+
+🌱 I’m currently learning deep learning and other data science fundamentals
+
 
 <!--
 **umamaheshwar-g/umamaheshwar-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
