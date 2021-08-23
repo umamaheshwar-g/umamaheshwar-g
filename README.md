@@ -35,6 +35,8 @@ Profile Links:
 
 Here are some ideas to get you started:
 
+https://github.com/Ileriayo/markdown-badges#testing
+
 - 🔭 I’m currently working on gopython
 - 🌱 I’m currently learning deep learning
 - 👯 I’m looking to collaborate on ...
