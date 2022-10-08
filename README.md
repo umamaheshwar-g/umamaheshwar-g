@@ -23,11 +23,11 @@ Profile Links:
 [GitHub Profile](https://github.com/umamaheshwar-g/)
  | 
 
-🤔 I’m looking for job role as a python developer in a  fortune 500 company
+🌱 I’m looking for job role as a python developer in a  fortune 500 company
 
 🔭 I’m currently working on: www.gopython.in
 
-🌱 I’m currently learning deep learning and other data science fundamentals
+⚡ I’m currently learning deep learning and other data science fundamentals
 
 
 <!--
