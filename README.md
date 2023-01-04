@@ -23,11 +23,11 @@ Profile Links:
 [GitHub Profile](https://github.com/umamaheshwar-g/)
  | 
 
-🌱 I’m looking for job role as a python developer in a  fortune 500 company
+🌱 Seeking internship(Summer2023)| IT Consultant | Business Analyst Data Analyst| Information Technology Consultant| Python| Machine Learning| Full Stack Development| Django| NLP| Machine Learning|Rest Apis| Deep Learning
 
-🔭 I’m currently working on: www.gopython.in
+🔭 I’m currently doing my Masters in Information Systems at University of Maryland(I will graduate in Dec 2023)
 
-⚡ I’m currently learning deep learning and other data science fundamentals
+⚡ I’m currently expanding my knowledge in Deep learning and Machine Learning
 
 
 <!--
