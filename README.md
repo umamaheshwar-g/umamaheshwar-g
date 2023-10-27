@@ -23,11 +23,11 @@ Profile Links:
 [GitHub Profile](https://github.com/umamaheshwar-g/)
  | 
 
-🌱 Seeking internship(Summer2023)| IT Consultant | Business Analyst Data Analyst| Information Technology Consultant| Python| Machine Learning| Full Stack Development| Django| NLP| Machine Learning|Rest Apis| Deep Learning
+🌱 Passionate Full Stack Engineer & Technical Product Manager | Proficient in Python, Django, REST APIs, NLP, Machine Learning, Deep Learning & Analytics | Actively Seeking Opportunities
 
 🔭 I’m currently doing my Masters in Information Systems at University of Maryland(I will graduate in Dec 2023)
 
-⚡ I’m currently expanding my knowledge in Deep learning and Machine Learning
+⚡ I’m currently expanding my knowledge in Technical Product Management, Deep learning and Machine Learning
 
 
 <!--
