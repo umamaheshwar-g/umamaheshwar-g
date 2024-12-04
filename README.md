@@ -16,7 +16,7 @@ Profile Links:
  | 
 [SoloLearn Profile](https://www.sololearn.com/profile/1130470)
  | 
-[LinkedIn Profile](https://www.linkedin.com/in/umamaheshwargupta/)
+[LinkedIn Profile](https://www.linkedin.com/in/mahesh1920/)
  | 
 [HackerRank Profile](https://www.hackerrank.com/ug205)
  | 
