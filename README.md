@@ -18,6 +18,26 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
+## 🔗 Connect & Code With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umamaheshwar-g/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh1920/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ug205)
+[![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/1130470)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umamaheshwar-g&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umamaheshwar-g&layout=compact&theme=radical)
+
+### 🏆 Coding Activity
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umamaheshwar-g&theme=radical)](https://git.io/streak-stats)
+
+### 💻 Tech Communities
+- Active contributor on SoloLearn (Profile ID: 1130470)
+- Problem solver on HackerRank (@ug205)
+- Open source enthusiast on GitHub (@umamaheshwar-g)
+- Professional network on LinkedIn (@mahesh1920)
 Profile Links: 
 
  | 
