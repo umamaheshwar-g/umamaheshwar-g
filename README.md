@@ -1,24 +1,33 @@
-## My Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Langchain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white)
+## 👨‍💻 Professional Profile
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_for_Opportunities-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh1920/)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahesh.insti@gmail.com)
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+### 🎯 Currently Seeking
+- AI/ML Engineering Opportunities
+- BigData and AI
+- Business Intelligence
+- Full Stack Development Roles
+- Technical Product Management Positions
 
-## 🔗 Connect & Code With Me
+### 💼 Professional Highlights
+- 🌟 **Technical Product Manager** with strong engineering background
+- 💻 **Full Stack Engineer** proficient in modern web technologies
+- 🤖 **AI/ML Specialist** experienced in building intelligent systems
+- 📊 **Data Science Expert** with proven project success
+
+# 👋 Hello, I'm Uma Maheshwar
+
+> 🚀 AI Engineer & Data Innovator | Turning Complex Data into Business Value
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahesh1920/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/umamaheshwar-g/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/ug205)
+
+## 🎯 Professional Focus
+
+
+### 🛠️ Technical Expertise
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umamaheshwar-g/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh1920/)
@@ -153,4 +162,106 @@ A comprehensive collection of data science projects demonstrating expertise acro
 - Reinforcement learning for game AI
 
 **Technologies & Models:**
+
+Here's a comprehensive markdown file for your GitHub profile:
+
+```markdown
+# 👋 Hello, I'm Uma Maheshwar
+
+> 🚀 AI Engineer & Data Innovator | Turning Complex Data into Business Value
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahesh1920/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/umamaheshwar-g/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/ug205)
+
+## 🎯 Professional Focus
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Uma Maheshwar"
+        self.role = "AI & Data Engineering Specialist"
+        self.languages = ["Python", "SQL", "JavaScript"]
+        
+    def core_competencies(self):
+        return {
+            "AI/ML": [
+                "Large Language Models",
+                "Machine Learning",
+                "Deep Learning",
+                "Natural Language Processing"
+            ],
+            "Data Engineering": [
+                "Data Pipelines",
+                "ETL Processes",
+                "Big Data Technologies",
+                "Data Warehousing"
+            ],
+            "Business Intelligence": [
+                "Data Visualization",
+                "Predictive Analytics",
+                "Business Metrics",
+                "Executive Dashboards"
+            ]
+        }
+```
+
+## 🛠️ Tech Stack
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-AI-blue?style=flat-square)
+
+### Data Engineering & Analytics
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+### Development Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📊 Featured Projects
+
+### 1. AI-Powered Learning Assistant
+An intelligent educational platform using LangChain and GPT models for personalized learning experiences.
+- 🔗 [Repository](https://github.com/yourusername/project1)
+- 🛠️ Tech: Python, LangChain, OpenAI API, FastAPI
+
+### 2. Business Intelligence Dashboard
+Enterprise-grade analytics platform for real-time business insights.
+- 🔗 [Repository](https://github.com/yourusername/project2)
+- 🛠️ Tech: Python, Streamlit, PostgreSQL, Plotly
+
+### 3. MLOps Pipeline
+End-to-end machine learning pipeline with automated training and deployment.
+- 🔗 [Repository](https://github.com/yourusername/project3)
+- 🛠️ Tech: Python, Docker, AWS, GitHub Actions
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umamaheshwar-g&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative AI and data projects. Feel free to reach out!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahesh1920/)
+- 📧 [Email](mailto:your.email@domain.com)
+- 🌐 [Portfolio](https://your-portfolio-site.com)
+
+---
+
+<p align="center">
+  <i>⚡ "Transforming data into insights, insights into action, and action into value."</i>
+</p>
+```
+
 
