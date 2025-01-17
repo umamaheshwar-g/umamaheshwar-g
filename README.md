@@ -165,7 +165,6 @@ A comprehensive collection of data science projects demonstrating expertise acro
 
 Here's a comprehensive markdown file for your GitHub profile:
 
-```markdown
 # 👋 Hello, I'm Uma Maheshwar
 
 > 🚀 AI Engineer & Data Innovator | Turning Complex Data into Business Value
@@ -176,7 +175,7 @@ Here's a comprehensive markdown file for your GitHub profile:
 
 ## 🎯 Professional Focus
 
-```python
+python
 class AIEngineer:
     def __init__(self):
         self.name = "Uma Maheshwar"
